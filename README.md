@@ -27,6 +27,7 @@ print(detect('/path/to/nsfw.png'))
 
 Instead of a path, you can use a variable that contains an image loaded through `cv2` (opencv) or `PIL` (pillow).
 
+
 #### Output
 ```
 [
