@@ -36,5 +36,6 @@ Instead of a path, you can use a variable that contains an image loaded through 
 ]
 ```
 
+
 ### Credits
 This is fork of [NudeNet](https://pypi.org/project/NudeNet/) library which doesn't work anymore. I have taken the liberty to remove the video detection functionality as it was prone to crashes. It will be re-implemented in future.
