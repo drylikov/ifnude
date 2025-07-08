@@ -1,4 +1,5 @@
 
+
 # ifnude - nudity detection that just works
 
 A neural nets powered library that can detect nudity in images of both real humans and drawings. It takes an image as input and tells you exactly what NSFW parts of the body are visible. Optionally, you can censor the said parts.
