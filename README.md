@@ -6,6 +6,7 @@ A neural nets powered library that can detect nudity in images of both real huma
 
 <img src="https://i.imgur.com/0KPJbl9.jpg" width=600>
 
+
 ### Installation
 ```bash
 pip install ifnude
