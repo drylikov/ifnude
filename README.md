@@ -31,6 +31,7 @@ Instead of a path, you can use a variable that contains an image loaded through 
 
 
 #### Output
+
 ```
 [
   {'box': [164, 188, 246, 271], 'score': 0.8253238201141357, 'label': 'EXPOSED_BREAST_F'},
